@@ -8,7 +8,7 @@ He creado mi propio juego de **Hundir la flota** en Python.
 
 ## ¿Cómo funciona el juego?
 
-1. Hay dos jugadores: tú y la máquina
+1. Hay dos jugadores: la máquina y tú
 2. Un **tablero de 10 x 10** posiciones donde irán los barcos
 3. Lo primero que se hace es colocar los barcos. Para este juego **los barcos se colocan de manera aleatoria. 
 4. Los barcos son:
